@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Sinuous9715",
+  "repo": "container-3lgawwc",
+  "name": "Sinuous9715",
+  "email": "kareemmehesen2026+1zgsk31g0@gmail.com",
+}
